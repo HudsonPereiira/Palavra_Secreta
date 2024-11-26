@@ -1,6 +1,6 @@
 import "./StartScreen.css";
 
-const startScreen = ({ startGame }) => {
+const StartScreen = ({ startGame }) => {
   return (
     <div className="start">
       <h1>Palavra Secreta</h1>
@@ -10,4 +10,4 @@ const startScreen = ({ startGame }) => {
   );
 };
 
-export default startScreen;
+export default StartScreen;
