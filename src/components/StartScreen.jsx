@@ -1,4 +1,4 @@
-import "./startScreen.css";
+import "./StartScreen.css";
 
 const startScreen = ({ startGame }) => {
   return (
