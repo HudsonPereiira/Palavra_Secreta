@@ -28,3 +28,9 @@ button {
 button:hover {
   background-color: #5b5c61;
 }
+
+@media (max-width: 768px) {
+  .menu {
+    flex-direction: column;
+  }
+}
