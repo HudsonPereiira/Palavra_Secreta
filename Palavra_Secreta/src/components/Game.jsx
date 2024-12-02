@@ -1,5 +1,5 @@
 import { useState, useRef } from "react";
-import "./game.css";
+import "./Game.css";
 
 const Game = ({
   verifyLetter,
