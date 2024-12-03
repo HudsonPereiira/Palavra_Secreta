@@ -13,9 +13,9 @@ import Game from "./components/Game.jsx";
 import GameOver from "./components/GameOver.jsx";
 
 const stages = [
-  { id: 1, name: "start" },
-  { id: 2, name: "game" },
-  { id: 3, name: "end" },
+  { id: 0, name: "start" },
+  { id: 1, name: "game" },
+  { id: 2, name: "end" },
 ];
 
 const guessesQty = 3;
